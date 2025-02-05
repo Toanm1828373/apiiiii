@@ -1,0 +1,8 @@
+2025-02-03T15:19:11.923Z [INFO]: [ LOADING ] -> Đã tải thành công pinterest.js
+2025-02-03T15:19:11.925Z [INFO]: [ LOADING ] -> Đã load thành công 1 file API
+2025-02-03T15:19:11.928Z [INFO]: Server is running on http://localhost:3000
+2025-02-03T15:19:29.338Z [INFO]: [ IP ] -> ::1 - Đã yêu cầu tới /pinterest?search=cat%20pixel
+2025-02-03T15:20:49.150Z [INFO]: [ LOADING ] -> Đã tải thành công pinterest.js
+2025-02-03T15:20:49.152Z [INFO]: [ LOADING ] -> Đã load thành công 1 file API
+2025-02-03T15:20:49.157Z [INFO]: Server is running on http://localhost:3000
+2025-02-03T15:20:54.393Z [INFO]: [ IP ] -> ::1 - Đã yêu cầu tới /pinterest?search=cat%20pixel
